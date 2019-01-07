@@ -31,8 +31,8 @@ def findAdmin():
 
 def Credit():
 	Space(9); print "#####################################"
-	Space(9); print "#   ***IES Admin Panel Finder ***.           #"
-	Space(9); print "#     Script by MR.W4HYU                       #"
+	Space(9); print "#   ***IES Admin Panel Finder ***.#"
+	Space(9); print "#     Script by MR.W4HYU           #"
 	Space(9); print "#     INDONESIAN  ERROR SYSTEM      #"
 	Space(9); print "#####################################"
 
